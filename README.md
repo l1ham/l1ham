@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @l1ham
-- 👀 I’m interested in networking (Cisco) and programming.
-- 🌱 I’m currently learning Cisco CCNP ENCOR
-- 💞️ I’m looking to collaborate on Cisco CCNP ENCOR / Python.
+- 👀 I’m interested in computer networking (Cisco), Linux, and programming
+- 🌱 I’m currently learning Cisco CCNP ENCOR and CompTIA Linux+
+- 💞️ I’m looking to collaborate on Cisco CCNP ENCOR, CompTIA Linux+, and Python
 - 📫 How to reach me: Discord l1ham#2371
 
 <!---
